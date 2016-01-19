@@ -1,0 +1,5 @@
+Para executar o trabalho, o único requisito é ter uma versão do ruby maior ou igual que 1.9
+Em computadores com MAC OS, ele já vem instalado por padrão.
+Em coputadores com distribuição debian-linux, é possível instalar com um comando (sudo apt-get install ruby).
+
+Para executar o trabalho em sí, basta estar no diretório descompactado do trabalho, e entrar com o comando no terminal (ruby main.rb).
